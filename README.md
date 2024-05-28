@@ -1,14 +1,14 @@
 # hg_1_charlie
 # Tipo de usuario
-- [ ] Alfa = Raykel
+- [X] Alfa = Raykel
 - [ ] Bravo = Stephen 
 - [X] Charlie = Geffry
-- [ ] Delta = Darianny
-- [ ] Echo = Manuel
+- [X] Delta = Darianny
+- [X] Echo = Manuel
 
 # Seleccione el tipo de actividad
-- [ ] Feature
+- [X] Feature
 - [ ] Hotfix
 - [X] Refactor
-- [ ] Performance
-- [ ] Testing
+- [X] Performance
+- [X] Testing
